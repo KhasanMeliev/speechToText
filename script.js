@@ -10,3 +10,4 @@ btn.addEventListener("click", (ea) => {
   });
   recognition.start();
 });
+
